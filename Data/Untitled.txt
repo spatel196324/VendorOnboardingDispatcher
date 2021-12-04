@@ -1,0 +1,69 @@
+Somewhere Road 59,
+Bucharest, Romania
+
+Vendor Onboarding Form
+
+Section 1: Vendor General Information
+
+Business Name:
+Camels Wood
+
+If no business name, enter N/A
+
+URL for Website
+
+www.camelswood.com
+
+Contact Name *
+Brock Lee
+
+Name of Business Contact
+Phone Number
+Fax Number
+
+102-905-7890 1-858-844 8421
+
+Telephone number of Business Contact
+
+Email for Contact Person *
+brocklee@mail.com
+
+Email address of Business Contact
+
+Tax ID:
+DD753951
+
+Corporate Address
+
+Avenue Foch 63
+
+City*
+
+Bucuresti
+
+Country *
+
+Romania
+
+Zip Code*
+
+440452
+
+*All fields marked with an asterisk (*) are required.Payment Terms
+Do you accept VISA payments?
+
+Yes No
+If you accept payment via ACH, please provide the following:
+Bank Name Email for ACH Notification
+
+Routing Number Account Number
+
+The completed registration form should be emailed to:
+
+vendorcreation@acme-test.net
+
+ACME Systems Ltd., Somewhere Road, Bucharest, Romania
+
+Si gnature:  Pr  inted Name:
+
+Date:  Title:
